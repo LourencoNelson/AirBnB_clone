@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    min-height: 100vh;
+}
+.container {
+    background-color: white;
+    max-width: 1000px;
+    margin: 30px auto;    
+}
